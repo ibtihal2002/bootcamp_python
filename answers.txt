@@ -1,0 +1,4 @@
+
+pip list
+pkg_resources
+pytesseract
